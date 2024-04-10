@@ -1,5 +1,5 @@
-class hllowword{
-public static void main(string args[]){
-  system.out.println("hellow,word!");
+class hllowword {
+public static void main(String args[]){
+  System.out.println("hellow,word!");
 }
 }
